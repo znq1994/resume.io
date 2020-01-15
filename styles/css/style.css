@@ -5581,11 +5581,11 @@ h1, h2, h3, h4, h5, h6 {
     max-height: 180px;
     vertical-align: middle;
     padding-left: 60px;
-}
+}ßß
 
 .award-title {
-    font-size: 1.125em;
-    margin-top: 0;
+    font-size: 1.125ßem;
+    margin-top: 0pxß;
     margin-bottom: 25px;
     text-align: center;
 }

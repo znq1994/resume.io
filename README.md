@@ -89,7 +89,7 @@ Configuration file: C:/..../resume.io/_config.yml
 
 ## 在线预览
 
-[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io)
+[非你莫属--个人简历模板](http://znq1994.gitee.io/resume.io)
 
 ## 截图预览
 
